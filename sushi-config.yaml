@@ -136,7 +136,7 @@ jurisdiction: http://unstats.un.org/unsd/methods/m49/m49.htm#001 "World"
 #    title: Examples Overview
 #    simpleExamples.xml:
 #    complexExamples.xml:
-
+  intro.md
 # The ImplementationGuide resource defines several other properties
 # not represented above. These properties can be used as-is and
 # should follow the format defined in ImplementationGuide:
