@@ -128,7 +128,7 @@ jurisdiction: http://unstats.un.org/unsd/methods/m49/m49.htm#001 "World"
 # file name extension.  Any subproperties that are valid filenames
 # with supported extensions (e.g., .md/.xml) will be treated as
 # sub-pages.
-#pages:
+pages:
 #  index.md:
 #    title: Example Home
 #  implementation.xml:
@@ -136,7 +136,7 @@ jurisdiction: http://unstats.un.org/unsd/methods/m49/m49.htm#001 "World"
 #    title: Examples Overview
 #    simpleExamples.xml:
 #    complexExamples.xml:
-   intro.md
+  intro.md
 # The ImplementationGuide resource defines several other properties
 # not represented above. These properties can be used as-is and
 # should follow the format defined in ImplementationGuide:
