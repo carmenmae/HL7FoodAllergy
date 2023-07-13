@@ -22,10 +22,10 @@ Description: "Food allergy profile for reported food allergies"
 * name 1..*
 
 // Mark elements as MustSupport
-*patient MS
+*patient MustSupport
 * code 1..1
 *clinicalStatus 1..1
-*recordedDate MS
+*recordedDate MustSupport
 
 *participant 
 

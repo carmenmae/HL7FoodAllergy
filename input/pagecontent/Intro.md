@@ -1,2 +1,3 @@
 This implementation guide is an example and please do not use to implement anything...yet
-At the moment this IG includes Food Allergy
+
+This is a sample FHIR profile that includes a food allergy.
