@@ -16,7 +16,7 @@ description: Food Allergy IG
 status: active
 license: CC0-1.0
 date: 2023-07-13
-version: 1.0.5
+version: 1.0.0
 
 # Although fhirVersions is 0..* in the ImplementationGuide resource
 # it can be a single item OR and array here (but so far SUSHI only
@@ -37,7 +37,7 @@ releaseLabel: STU1
 # as IG.publisher.  The contact details and/or additional publishers
 # will be translated into IG.contact values.
 publisher:
-  name: HL7FHIR-EE-CM
+  name: HL7FHIREECM
   url: http://example.com/committees
   email: carmen@example.com
 
